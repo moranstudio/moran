@@ -1359,7 +1359,7 @@ figure.effect-julia:hover p {
 .clients{
     background: rgb(254,143,1);
     padding: 4em 10em 4em 4em;
-	min-height: 463px;
+	
 }
 
 .client_img{
@@ -1408,6 +1408,11 @@ figure.effect-julia:hover p {
 .client {
     margin-top: 2em;
 }
+
+.client img{
+	width: 13em !important;
+}
+
 /*-- //clients--*/
 /*-- Contact --*/
 .contact-right-w3l h3:before {
@@ -1965,3 +1970,8 @@ div#bs-example-navbar-collapse-1 {
 }
 }
 /*-- /responsive design --*/
+
+.conacto-desc{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
